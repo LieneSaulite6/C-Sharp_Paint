@@ -1,0 +1,10 @@
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\bin\Debug\MyPaint1.exe.config
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\bin\Debug\MyPaint1.exe
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\bin\Debug\MyPaint1.pdb
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.csproj.AssemblyReference.cache
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.Form1.resources
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.Properties.Resources.resources
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.csproj.GenerateResource.cache
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.csproj.CoreCompileInputs.cache
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.exe
+C:\Users\Liene\Desktop\Pr Iz Te\MyPaint1\obj\Debug\MyPaint1.pdb
